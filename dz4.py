@@ -21,7 +21,7 @@ def currency_rates(val):
 print(currency_rates('USD'))
 print(currency_rates('EUR'))
 
-
+11
 
 #
 # import dz4
